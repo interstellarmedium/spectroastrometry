@@ -1,4 +1,5 @@
 # spectroastrometry
 notebooks for iSHELL spectroastrometry
 
-working description at https://www.notion.so/Spectroastrometry-pipeline-b83903c01f7344889a676e0b0c168ef4?pvs=4
+working description at https://excellent-decade-3d5.notion.site/Measure-spectroastrometric-signal-55218479d790457bb7b9a03c3322d148?pvs=4
+
